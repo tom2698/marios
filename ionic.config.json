@@ -1,6 +1,6 @@
 {
   "name": "Marios Pizza",
-  "app_id": "au.edu.griffith.MariosPizza",
+  "app_id": "58dee4de",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
